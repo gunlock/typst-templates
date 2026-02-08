@@ -70,7 +70,7 @@ cargo install --git https://github.com/typst/typst --locked typst-cli
 
 ## Fonts
 
-The examples in this repository use the **Inter** font family, which provides excellent readability and professional appearance.
+The examples in this repository use the **Inter** font family, which provides excellent readability.
 
 ### Installing the Inter Font
 
